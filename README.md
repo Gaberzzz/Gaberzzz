@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaberzzz&show_icons=true&theme=shadow_red )[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaberzzz&layout=compact&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+## ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaberzzz&show_icons=true&theme=midnight-purple )[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaberzzz&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ## 
 <!--
 **Gaberzzz/Gaberzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
